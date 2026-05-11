@@ -49,7 +49,7 @@ Recuerda: la constancia es la clave. Resultados visibles aparecen entre la 4ta y
       'https://images.pexels.com/photos/3685530/pexels-photo-3685530.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Skincare',
     date: '2026-05-01',
-    author: 'Ankatu',
+    author: 'Asuka',
     readTime: 4,
   },
   {
@@ -72,12 +72,12 @@ Convierte tu baño en un spa. Un par de gotas de eucalipto en el agua caliente a
 **Difusor vs. Vela**
 El difusor ultrasónico es ideal para espacios grandes y uso continuo. Las velas de soja crean una atmósfera íntima con su luz tenue. Ambos son complementarios.
 
-**Tip Ankatu:** Mezcla 3 gotas de lavanda + 2 de ylang ylang en tu difusor de bambú para la mezcla de relajación perfecta.`,
+**Tip Asuka:** Mezcla 3 gotas de lavanda + 2 de ylang ylang en tu difusor de bambú para la mezcla de relajación perfecta.`,
     image:
       'https://images.pexels.com/photos/6262402/pexels-photo-6262402.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Aromaterapia',
     date: '2026-04-20',
-    author: 'Ankatu',
+    author: 'Asuka',
     readTime: 5,
   },
   {
@@ -113,12 +113,12 @@ Son extractos volátiles obtenidos por destilación de flores, hojas, raíces y 
 - Mantén fuera del alcance de niños
 
 **Cómo elegir calidad:**
-Busca aceites 100% puros, sin aditivos ni fragancias sintéticas. En Ankatu, cada aceite es puro y viene con información de origen.`,
+Busca aceites 100% puros, sin aditivos ni fragancias sintéticas. En Asuka, cada aceite es puro y viene con información de origen.`,
     image:
       'https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Bienestar',
     date: '2026-04-10',
-    author: 'Ankatu',
+    author: 'Asuka',
     readTime: 6,
   },
 ];

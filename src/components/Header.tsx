@@ -25,7 +25,7 @@ export default function Header({
           onClick={() => onNavigate('hero')}
           className="text-xl font-light tracking-[0.3em] text-zinc-900 dark:text-zinc-100 uppercase"
         >
-          Ankatu
+          Asuka
         </button>
 
         <nav className="hidden md:flex items-center gap-8">

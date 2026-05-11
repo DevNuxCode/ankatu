@@ -57,7 +57,7 @@ export function useCart() {
         `- ${i.product.name} x${i.quantity}: $${(i.product.price * i.quantity).toLocaleString('es-CL')}`
     );
     const message = [
-      'Hola Ankatu! Me gustaría ordenar:',
+      'Hola Asuka! Me gustaría ordenar:',
       '',
       ...lines,
       '',

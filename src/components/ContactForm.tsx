@@ -10,7 +10,7 @@ export default function ContactForm() {
     e.preventDefault();
     const phone = '56978104789';
     const text = [
-      `Hola Ankatu!`,
+      `Hola Asuka!`,
       `Nombre: ${name}`,
       `Email: ${email}`,
       `Mensaje: ${message}`,

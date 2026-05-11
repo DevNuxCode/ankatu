@@ -26,7 +26,7 @@ export default function Hero({ onNavigate }: HeroProps) {
         </div>
 
         <h1 className="text-5xl md:text-7xl font-extralight tracking-tight text-zinc-900 dark:text-zinc-100 mb-6">
-          Ankatu
+          Asuka
         </h1>
 
         <p className="text-lg md:text-xl font-light text-zinc-500 dark:text-zinc-400 mb-10 leading-relaxed">

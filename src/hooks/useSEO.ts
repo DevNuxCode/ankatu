@@ -15,7 +15,7 @@ export function useSEO({
   type = 'website',
 }: SEOProps = {}) {
   useEffect(() => {
-    const siteName = 'Ankatu';
+    const siteName = 'Asuka';
     const defaultDesc =
       'Tienda de esencias, aromas, skincare y cuidado corporal natural. Productos artesanales para tu bienestar.';
     const defaultImage =

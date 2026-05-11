@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
         <div className="text-center md:text-left">
           <span className="text-lg font-light tracking-[0.3em] uppercase text-zinc-900 dark:text-zinc-100">
-            Ankatu
+            Asuka
           </span>
           <p className="text-xs text-zinc-400 dark:text-zinc-500 mt-1">
             Esencias, aromas y skincare natural
